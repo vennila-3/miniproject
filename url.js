@@ -1,0 +1,1 @@
+module.exports=`mongodb+srv://vennilak2020ece:<password>@cluster0.2rnzydi.mongodb.net/`
